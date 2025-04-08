@@ -1,0 +1,51 @@
+image_name,original_image_path,label
+image_0,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_260331.jpg,Erythroblast
+image_1,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_275300.jpg,Basophil
+image_2,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/PMY/PMY_656779.jpg,Promyelocyte
+image_3,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/eosinophil/EO_445288.jpg,Eosinophil
+image_4,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_589271.jpg,Segmented Neutrophil
+image_5,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_923091.jpg,Segmented Neutrophil
+image_6,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_527667.jpg,Basophil
+image_7,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_876188.jpg,Myelocyte
+image_8,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/eosinophil/EO_371502.jpg,Eosinophil
+image_9,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_405189.jpg,Myelocyte
+image_10,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_354514.jpg,Erythroblast
+image_11,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/BNE/BNE_269708.jpg,Band Neutrophil
+image_12,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_331375.jpg,Basophil
+image_13,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/lymphocyte/LY_691863.jpg,Lymphocyte
+image_14,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MMY/MMY_177464.jpg,Metamyelocyte
+image_15,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_605110.jpg,Basophil
+image_16,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_507649.jpg,Myelocyte
+image_17,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/BNE/BNE_721607.jpg,Band Neutrophil
+image_18,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/lymphocyte/LY_4334.jpg,Lymphocyte
+image_19,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/platelet/PLATELET_919469.jpg,Platelet
+image_20,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_370244.jpg,Myelocyte
+image_21,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_935950.jpg,Erythroblast
+image_22,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/PMY/PMY_399334.jpg,Promyelocyte
+image_23,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_369365.jpg,Erythroblast
+image_24,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_221009.jpg,Basophil
+image_25,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_426212.jpg,Segmented Neutrophil
+image_26,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_847579.jpg,Erythroblast
+image_27,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MMY/MMY_586942.jpg,Metamyelocyte
+image_28,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_404174.jpg,Segmented Neutrophil
+image_29,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_915765.jpg,Segmented Neutrophil
+image_30,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MMY/MMY_142249.jpg,Metamyelocyte
+image_31,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/PMY/PMY_537229.jpg,Promyelocyte
+image_32,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/monocyte/MO_378086.jpg,Monocyte
+image_33,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_126839.jpg,Basophil
+image_34,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/eosinophil/EO_2590.jpg,Eosinophil
+image_35,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_260100.jpg,Basophil
+image_36,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/BNE/BNE_986103.jpg,Band Neutrophil
+image_37,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_256257.jpg,Erythroblast
+image_38,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/platelet/PLATELET_32162.jpg,Platelet
+image_39,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/platelet/PLATELET_311547.jpg,Platelet
+image_40,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_335809.jpg,Erythroblast
+image_41,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/lymphocyte/LY_314460.jpg,Lymphocyte
+image_42,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_782773.jpg,Myelocyte
+image_43,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/basophil/BA_201200.jpg,Basophil
+image_44,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/erythroblast/ERB_898078.jpg,Erythroblast
+image_45,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MY/MY_189641.jpg,Myelocyte
+image_46,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_599382.jpg,Segmented Neutrophil
+image_47,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_164455.jpg,Segmented Neutrophil
+image_48,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/MMY/MMY_797468.jpg,Metamyelocyte
+image_49,/lustre/groups/labs/marr/qscd01/datasets/Acevedo_20/PBC_divided/SNE/SNE_929963.jpg,Segmented Neutrophil
