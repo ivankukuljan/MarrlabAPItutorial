@@ -1,0 +1,15 @@
+# Create env using:
+# conda env create -f api_tutorial.yml
+
+name: api_tutorial
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.8
+  - pandas
+  - jupyter
+  - pillow
+  - pip
+  - pip:
+      - google-generativeai
